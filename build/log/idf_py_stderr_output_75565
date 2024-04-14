@@ -1,0 +1,6 @@
+CMake Warning (dev) at components/gui/CMakeLists.txt:1:
+  Syntax Warning in cmake code at column 27
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
